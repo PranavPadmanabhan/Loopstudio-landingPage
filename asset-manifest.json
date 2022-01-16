@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/loopstudio-landingPage/static/css/main.fe3cf7aa.css",
-    "main.js": "/loopstudio-landingPage/static/js/main.3a0d87e6.js",
+    "main.js": "/loopstudio-landingPage/static/js/main.138d7fe9.js",
     "static/media/image-hero.jpg": "/loopstudio-landingPage/static/media/image-hero.3de81110dee4f75f44f9.jpg",
     "static/media/image-from-above.jpg": "/loopstudio-landingPage/static/media/image-from-above.f316f3f3afc353415f71.jpg",
     "static/media/image-interactive.jpg": "/loopstudio-landingPage/static/media/image-interactive.1d330522c9ca6cf07a9c.jpg",
@@ -19,10 +19,10 @@
     "static/media/icon-twitter.svg": "/loopstudio-landingPage/static/media/icon-twitter.5dc7711ff2433b3b89ee7742a407e3bd.svg",
     "static/media/icon-facebook.svg": "/loopstudio-landingPage/static/media/icon-facebook.e9773e52bc64ea377cb95af7ccb6877e.svg",
     "main.fe3cf7aa.css.map": "/loopstudio-landingPage/static/css/main.fe3cf7aa.css.map",
-    "main.3a0d87e6.js.map": "/loopstudio-landingPage/static/js/main.3a0d87e6.js.map"
+    "main.138d7fe9.js.map": "/loopstudio-landingPage/static/js/main.138d7fe9.js.map"
   },
   "entrypoints": [
     "static/css/main.fe3cf7aa.css",
-    "static/js/main.3a0d87e6.js"
+    "static/js/main.138d7fe9.js"
   ]
 }
