@@ -35,7 +35,7 @@ function App() {
   })
   const secondIntersection = useIntersection(section2Ref,{
     root:null,
-    rootMargin:"0px",
+    rootMargin:"50px",
     threshold:1
   })
   const ThirdIntersection = useIntersection(section3Ref,{
@@ -45,7 +45,7 @@ function App() {
   })
   return (
     <div className="App">
-      <div className="header">
+      <div className="header" >
         <div className="nav-bar">
           <img src={logo} alt="logo" className="logo" />
           <div className="navbar-options">
