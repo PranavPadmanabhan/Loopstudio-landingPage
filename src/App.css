@@ -109,6 +109,10 @@
   mask-position: center;
   mask-size: cover;
   mask-repeat: no-repeat;
+  -webkit-mask-image: url('./assets/images/logo.svg');
+  -webkit-mask-position: inherit;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: cover;
   height: 5vh;
   width: 30vh;
   animation: bgcolor 4s infinite linear forwards;
@@ -565,6 +569,10 @@
     mask-position: center;
     mask-size: cover;
     mask-repeat: no-repeat;
+    -webkit-mask-image: url('./assets/images/icon-hamburger.svg');
+    -webkit-mask-position: inherit;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: cover;
     height: 5vw;
     width: 7vw;
     margin-right: 3vw;
@@ -578,6 +586,10 @@
     mask-position: center;
     mask-size: cover;
     mask-repeat: no-repeat;
+    -webkit-mask-image: url('./assets/images/logo.svg');
+    -webkit-mask-position: inherit;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: cover;
     height: 3.1vh;
     width: 45vw;
     margin-right: 3vw;
@@ -802,6 +814,10 @@
     mask-position: center;
     mask-repeat: no-repeat;
     mask-size: cover;
+    -webkit-mask-image: url('./assets/images/icon-close.svg');
+    -webkit-mask-position: inherit;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: cover;
     width: 7vw;
     height: 7vw;
     animation: bgcolor 4s infinite linear forwards;
