@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/loopstudio-landingPage/static/css/main.39d73665.css",
+    "main.css": "/loopstudio-landingPage/static/css/main.afc2ad2b.css",
     "main.js": "/loopstudio-landingPage/static/js/main.4daf14fb.js",
     "static/media/image-hero.jpg": "/loopstudio-landingPage/static/media/image-hero.9b5aacead42e955824d3.jpg",
     "static/media/image-from-above.jpg": "/loopstudio-landingPage/static/media/image-from-above.f316f3f3afc353415f71.jpg",
@@ -20,11 +20,11 @@
     "static/media/icon-facebook.svg": "/loopstudio-landingPage/static/media/icon-facebook.e9773e52bc64ea377cb95af7ccb6877e.svg",
     "static/media/icon-close.svg": "/loopstudio-landingPage/static/media/icon-close.bbbbb0069bb8a015e779.svg",
     "static/media/icon-hamburger.svg": "/loopstudio-landingPage/static/media/icon-hamburger.5153cb809501d4309c23.svg",
-    "main.39d73665.css.map": "/loopstudio-landingPage/static/css/main.39d73665.css.map",
+    "main.afc2ad2b.css.map": "/loopstudio-landingPage/static/css/main.afc2ad2b.css.map",
     "main.4daf14fb.js.map": "/loopstudio-landingPage/static/js/main.4daf14fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.39d73665.css",
+    "static/css/main.afc2ad2b.css",
     "static/js/main.4daf14fb.js"
   ]
 }
