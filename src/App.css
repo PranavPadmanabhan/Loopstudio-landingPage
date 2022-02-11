@@ -589,14 +589,14 @@
     background-color: white;
     mask-image: url('./assets/images/logo.svg');
     mask-position: center;
-    mask-size: cover;
+    mask-size: contain;
     mask-repeat: no-repeat;
     -webkit-mask-image: url('./assets/images/logo.svg');
     -webkit-mask-position: inherit;
     -webkit-mask-repeat: no-repeat;
     -webkit-mask-size: cover;
-    height: 3.1vh;
-    width: 45vw;
+    max-height: 25px;
+    width: 150px;
     margin-right: 3vw;
     animation: bgcolor 4s infinite linear forwards;
     transition: 0.4s ease;
