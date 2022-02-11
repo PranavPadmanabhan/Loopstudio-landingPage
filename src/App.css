@@ -109,10 +109,6 @@
   mask-position: center;
   mask-size: cover;
   mask-repeat: no-repeat;
-  -webkit-mask-image: url('./assets/images/logo.svg');
-  -webkit-mask-position: inherit;
-  -webkit-mask-repeat: no-repeat;
-  -webkit-mask-size: cover;
   height: 5vh;
   width: 30vh;
   animation: bgcolor 4s infinite linear forwards;
